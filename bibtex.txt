@@ -1,0 +1,9 @@
+@article{hochschild2024design,
+  title={Design and demonstration of a sensing network for full-scale wind pressure measurements on buildings},
+  author={Hochschild, John and Gorl{\'e}, Catherine},
+  journal={Journal of Wind Engineering and Industrial Aerodynamics},
+  volume={250},
+  pages={105760},
+  year={2024},
+  publisher={Elsevier}
+}

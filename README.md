@@ -1,5 +1,10 @@
 # Arduino code for pressure/wind datalogger
+If you use any of these codes, please cite as follows:
+> Hochschild, J. and Gorlé, C., 2024. *Design and demonstration of a sensing network for full-scale wind pressure measurements on buildings*. J. Wind Eng. Ind. Aerodyn. 250 (2024), 105760.
 
+([BibTeX](bibtext.txt)) 
+
+## Overview
 This repository contains .ino files for data collection with three separate purposes:
 1. `mote_` files collect pressure data from up to three BMP388 sensors on a mote at 12.5 Hz
 2. `ref_mote_` files collect pressure data from two BMP388 sensors at 1 Hz
