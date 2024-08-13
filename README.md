@@ -19,7 +19,7 @@ For each category, there are multiple .ino files for different logging types:
 
 Note that the `_2BMP` files provide code for acquiring from only two BMP388 sensors on one mote. The code can easily be altered to acquire from one BMP388 sensor.
 
-For connected motes (cellular/wifi), the motes are configured to connect to AWS to check shadow state (which tells sensors whether to sleep or wake) and stream data to a DynamoDB table. For disconnected motes, the motes either wake when P_rms exceeds a threshold value (for `mote_`) or are constantly measuring (for `ref_mote_`, since these are plugged into power so consumption is not a concern).
+For connected motes (cellular/wifi), the motes are configured to connect to AWS to check shadow state (which tells sensors whether to sleep or wake) and stream data to a DynamoDB table. For disconnected motes, the motes either wake when P_rms exceeds a threshold value (for `mote_`) or are constantly measuring (for `ref_mote_`, since these are plugged into power so consumption is not a concern).  Reference [AWS_setup.md](https://github.com/jhochs/Arduino_datalogger/blob/main/AWS_setup.md) to set up the mote communication in AWS.
 
 ## User changes
 ### Variables that must be set
