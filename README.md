@@ -2,7 +2,7 @@
 If you use any of these codes, please cite as follows:
 > Hochschild, J. and Gorlé, C., 2024. *Design and demonstration of a sensing network for full-scale wind pressure measurements on buildings*. J. Wind Eng. Ind. Aerodyn. 250 (2024), 105760.
 
-([BibTeX](Arduino_datalogger/blob/main/bibtext.txt)) 
+([BibTeX](https://github.com/jhochs/Arduino_datalogger/blob/main/bibtex.txt)) 
 
 ## Overview
 This repository contains .ino files for data collection with three separate purposes:
