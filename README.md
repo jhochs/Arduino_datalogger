@@ -5,7 +5,7 @@ If you use any of these codes, please cite as follows:
 ([BibTeX](https://github.com/jhochs/Arduino_datalogger/blob/main/bibtex.txt)) 
 
 ## Overview
-This repository is software only. For hardware files and instructions, see [mote_hardware](https://github.com/jhochs/mote_hardware).
+This repository is software only. For hardware files and instructions, see [mote_hardware](https://github.com/jhochs/mote_hardware). Refer also to [my thesis](https://purl.stanford.edu/sm262cb0838), Appendix C for more information on the data logging system.
 
 This repository contains .ino files for data collection with three separate purposes:
 1. `mote_` files collect pressure data from up to three BMP388 sensors on a mote at 12.5 Hz
