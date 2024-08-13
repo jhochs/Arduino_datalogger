@@ -65,3 +65,6 @@ Since some changes were made to the libraries, the changed versions are all incl
 Two types of code (with slightly different versions) are included in the [utilities/](utilities/) directory:
 - `set_RTC` is used to set the DS3231 RTC in the lab, either using NB, GSM (3G network), Wifi, or manually (by entering the time to set into the .ino code)
 - `three_BMP` streams measurements live from three BMP388 sensors to the command window
+
+## Troubleshooting
+Refer to [Troubleshooting.md](https://github.com/jhochs/Arduino_datalogger/blob/main/Troubleshooting.md) for handling common errors.
